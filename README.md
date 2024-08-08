@@ -10,7 +10,14 @@ This is a Flask web application that uses the MiDaS model to generate depth maps
 ## Installation
 
 1. Create a new virtual environment and activate it:
-2. Install the required packages:
+   ```
+   python -m venv venv
+    source venv/bin/activate
+   ```
+3. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
