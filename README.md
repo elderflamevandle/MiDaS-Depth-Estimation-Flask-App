@@ -21,9 +21,10 @@ This is a Flask web application that uses the MiDaS model to generate depth maps
 
 ## Usage
 
-1. Run the Flask app
+1. Run the Flask app:
+   ``` python app.py ```
 
-2. Open your web browser and go to `http://localhost:5000/`. You should see the live video feed with depth estimation and a bar graph displaying the depth values.
+3. Open your web browser and go to `http://localhost:5000/`. You should see the live video feed with depth estimation and a bar graph displaying the depth values.
 
 ## Endpoints
 
