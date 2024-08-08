@@ -12,7 +12,7 @@ This is a Flask web application that uses the MiDaS model to generate depth maps
 1. Create a new virtual environment and activate it:
    ```
    python -m venv venv
-    source venv/bin/activate
+   source venv/bin/activate
    ```
 3. Install the required packages:
    ```
@@ -46,6 +46,6 @@ You can customize the following aspects of the application:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache Licence 2.0](LICENSE).
 
 
